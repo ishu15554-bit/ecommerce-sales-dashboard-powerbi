@@ -131,7 +131,7 @@ Business Insights Panel
 
 ---
 
-# 💡 Bonus Feature — Smart Offer Planner
+#  Bonus Feature — Smart Offer Planner
 
 Unlike a traditional sales dashboard, this project introduces an additional business feature called **Smart Offer Planner**.
 
@@ -151,7 +151,7 @@ The recommendations are generated dynamically based on business performance, hel
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 | Category | Tools |
 |-----------|----------------|
@@ -167,35 +167,39 @@ The recommendations are generated dynamically based on business performance, hel
 
 # 📷 Dashboard Preview
 
-> *(Add your Power BI dashboard screenshot below.)*
-
-![Dashboard](IMAGES/dashboard.png)
+![Dashboard](assets/dashboard/SMART_PLANNER_POWER BI.png.png)
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
-```
-ECOMMERCE_ANALYSIS_PROJECT
+```text
+ECOMMERCE_ANALYSIS_PROJECT/
 │
-├── DATA
-│   └── ecommerce.csv
+├── DATA/
+│   └── eccomerce.csv
 │
-├── IMAGES
+├── IMAGES/
 │   ├── dashboard.png
-│   ├── graphs
+│   ├── q6_payment_method_revenue.png
+│   ├── q7_monthly_revenue.png
+│   ├── q8_payment_method_pie.png
+│   ├── q9_average_order_region.png
+│   ├── q10_average_customer_rating.png
+│   ├── q11_top10_customers_revenue.png
+│   ├── q12_revenue_per_order_region.png
+│   ├── q13_average_delivery_time.png
+│   ├── q14_correlation_heatmap.png
+│   └── q15_customer_rating_distribution.png
 │
-├── POWER_BI
+├── POWER_BI/
 │   └── Ecommerce_dashboard.pbix
 │
 ├── ecommerce_analysis.py
 ├── requirements.txt
 └── README.md
-```
 
----
-
-# 📈 Key Outcomes
+# Key Outcomes
 
 ✔ Complete End-to-End Data Analytics Project
 
